@@ -1,4 +1,4 @@
-# cac_app
+# GivingTree
 2022 Congressional App Challenge Winner! (TX-26 District)
 
 GivingTree Mobile Application.
